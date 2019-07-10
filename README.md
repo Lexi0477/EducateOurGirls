@@ -16,6 +16,6 @@ Educate our Girls is an interactive app letting women know about the latest tech
 - MongoDB
 
 ### Team Members:
-1. Tabitha Carty-Marcier;
+1. Alexis Mercier;
 2. Nuriman Tjiptarto;
 3. Christine Thomas
